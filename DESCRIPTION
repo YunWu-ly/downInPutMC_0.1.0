@@ -1,0 +1,15 @@
+Package: downInPutMC
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.13-1)
+LinkingTo: Rcpp
+RoxygenNote: 7.3.2
+NeedsCompilation: yes
+Packaged: 2025-01-09 16:18:24 UTC; Yun
